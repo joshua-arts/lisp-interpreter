@@ -1,6 +1,6 @@
 # Lisp Interpreter
 
-This is the result of me having a few hours in between classes and needing to kill a little bit of time. It's a functional Lisp interpreter developed using Ruby. It's very basic as of now and doesn't support too many Lisp keywords. There is obviously still a lot more features to implement, and I definietly hope to add them soon!
+This is the result of me having a few hours in between classes and needing to kill a little bit of time. It's a functional Lisp interpreter developed using Ruby. It's very basic as of now and doesn't support too many Lisp keywords. There is obviously still a lot more features to implement, and I definitely hope to add them soon!
 
 As of now, it supports the following functions:
 ```lisp
